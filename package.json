@@ -1,0 +1,17 @@
+{
+  "name": "openquest-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mongodb": "^6.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type" : "module"
+}
